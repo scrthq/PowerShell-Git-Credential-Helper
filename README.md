@@ -21,16 +21,6 @@ Compressing objects: 100% (3/3), done.
 Writing objects: 100% (3/3), 1.83 KiB | 624.00 KiB/s, done.
 Total 3 (delta 0), reused 0 (delta 0)
 To https://github.com/scrthq/PowerShell-Git-Credential-Helper.git
-   f906b3b..08ec17d  master -> master>> git push
-[pwsh] Enter username for host https://github.com: ******
-[pwsh] Enter password for user 'scrthq' on host https://github.com: **********************************************
-Enumerating objects: 4, done.
-Counting objects: 100% (4/4), done.
-Delta compression using up to 8 threads
-Compressing objects: 100% (3/3), done.
-Writing objects: 100% (3/3), 1.83 KiB | 624.00 KiB/s, done.
-Total 3 (delta 0), reused 0 (delta 0)
-To https://github.com/scrthq/PowerShell-Git-Credential-Helper.git
    f906b3b..08ec17d  master -> master
 ```
 
